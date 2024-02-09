@@ -1,0 +1,6 @@
+
+pip3 install scikit-learn -t ./lib
+pip3 install numba -t ./lib
+pip3 install triangle -t ./lib
+pip3 install matplotlib -t ./lib
+
