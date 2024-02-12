@@ -2,6 +2,8 @@ import sys
 import os.path
 import pathlib
 
+import warnings
+warnings.filterwarnings("ignore")
 
 # Path to all modules used in the project
 sys.path.append(str(pathlib.Path(__file__).parent.resolve())+'/lib/')
