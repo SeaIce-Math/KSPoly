@@ -1,8 +1,5 @@
-#from sklearn import *
-
 import kspoly as ks
 import numpy as np 
-
 from matplotlib import pyplot as plt
 import matplotlib.cm as cm
 
