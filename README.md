@@ -5,8 +5,7 @@ KSPoly utilizes Gaussian kernels to create a smooth representation of scalar, ve
 
 
 
-
-[<span style="font-size: 20px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; text-align: center; text-decoration: none; display: inline-block; cursor: pointer;">Click Here</span>](https://colab.research.google.com/drive/10OCMjVa6da5qWgc9wjCNvkc-8JO7ZnsT?usp=sharing)
+[**Open in Colab**](https://colab.research.google.com/drive/10OCMjVa6da5qWgc9wjCNvkc-8JO7ZnsT?usp=sharing){: .btn .btn-green }
 
 ## Installation
 
